@@ -1,11 +1,11 @@
 # triplates
 A UI modification for WoW nameplates.
 
-Splits BigDebuffs into buffs, debuffs, & CC via a ThreatPlates profile.
+Splits BigDebuffs into buffs, debuffs, & CC via a ThreatPlates profile. See "ExampleVideo.mp4" and "triplates.ipynb".
 
-See "ExampleImage" and "ExampleVideo" for details.
+![alt text](https://github.com/Noeloikeau/triplates/blob/main/ExampleImage.png)
 
-To import, open ThreatPlates in-game by typing `/tptp`, and then
+**To import**, open ThreatPlates in-game by typing `/tptp`, and then
 
 paste the following into Profiles -> Import Profile:
 
